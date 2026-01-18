@@ -20,7 +20,7 @@ from yt_dlp import YoutubeDL
 import urllib.request
 import subprocess
 
-APP_VERSION = "2.9"
+APP_VERSION = "3.0"
 UPDATE_URL = "https://raw.githubusercontent.com/ziabul2/GUI_Downloader/main/gui_downloader.py"
 REPO_URL = "https://github.com/ziabul2/GUI_Downloader"
 
